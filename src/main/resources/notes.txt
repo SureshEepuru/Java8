@@ -1,0 +1,10 @@
+Running this Java8 Spring Boot application
+1. Run mvn clean install
+2. Run As Spring Boot Application
+3. Browse http://localhost:8080/java8 - If you see Whitelabel Error Page with some content, then its running
+
+--------------------------------------------------------
+Useful links
+
+https://dzone.com/articles/how-to-prepare-java-certification-in-7-steps
+
